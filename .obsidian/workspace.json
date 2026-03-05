@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "e3c76a34ec7d031d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae84891dc8a7a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa280ad8c866e85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "8fe11cdc5042135e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "東方棄忘録   ～ Abandoned and Forgotten Things./Локации/Магический Магазин Марисы (МММ).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Магический Магазин Марисы (МММ)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7ff25e176e6f3dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab47d0d157690f39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "276d5215435fab8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3d572ae812369b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a5253dd8b08fe110",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae419b3496a76c08",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b43e641e37f3f20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "645b842375c69965",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "東方棄忘録　～ Abandoned and Forgotten Things./\"Камео\".md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for \"Камео\""
+            }
+          },
+          {
+            "id": "4370ab5fcafd27c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "東方棄忘録　～ Abandoned and Forgotten Things./\"Камео\".md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from \"Камео\""
+            }
+          },
+          {
+            "id": "0b158825375e05c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b27479845092cde4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b29aad7920c846f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "東方棄忘録　～ Abandoned and Forgotten Things./\"Камео\".md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of \"Камео\""
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aa280ad8c866e85d",
+  "lastOpenFiles": [
+    "東方棄忘録   ～.md",
+    "README.md",
+    "東方棄忘録.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./\"Камео\".md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Предметы.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Сюжет/Религия.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Сюжет/Кувшины Божественного Саке.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Сюжет/«Инцидент Божественного Пира».md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Персонажи/Бякурен Хидзири.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Персонажи/Ран Якумо.md",
+    "Земли задних дверей.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Сюжет/Сюжетные подсказки/Порванное Оммёдо.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Сюжет/Сюжетные подсказки/Осколок Кувшина.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Сюжет/Сюжетные подсказки/Загадочное Саке.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Сюжет/Побочные задания/История о том как Томико мечъ из ножен доставала.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Сюжет/Побочные задания/Жабный Лёд (outdated).md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Локации/\"Рюкиато\".md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Локации/Магический Магазин Марисы (МММ).md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Локации/Магический лес.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Сюжет/Побочные задания/Доспехи неуязвимости.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Сюжет/Побочные задания/Беспамятное пьянство.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Персонажи/Маки и Саки Ойкано.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Предметы и Артефакты/Фейк катана.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Предметы и Артефакты/Катана.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Предметы и Артефакты/Малые амулеты Лисы.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Предметы и Артефакты/Лук Эйрин.md",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Картинки/Pasted image 20250827155139.png",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Картинки/Pasted image 20260212162522.png",
+    "東方棄忘録   ～ Abandoned and Forgotten Things./Картинки/Pasted image 20251111203456.png"
+  ]
+}
