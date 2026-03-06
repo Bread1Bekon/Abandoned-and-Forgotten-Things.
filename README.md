@@ -6,4 +6,4 @@ Project's primary language is Russian. Eng translation is possible in the future
 **This project utilizes AI for image generation, some of the descriptions and for note layout. DNI if that's a hard turn-off for you!** If are an author of any non-AI images, contact me if you want them taken down. 
 
 test image:
-[[Pasted image 20250827155037.png]]
+![aun](東方棄忘録   ～ Abandoned and Forgotten Things./Картинки/Pasted image 20250827155037.png)
